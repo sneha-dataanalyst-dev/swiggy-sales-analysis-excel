@@ -38,4 +38,4 @@ The interactive Excel dashboard provides a visual summary of important sales and
 * Business Insights
   
 ## Dashboard Preview
-![Swiggy Sales Dashboard](dashboard.png)
+![Swiggy Sales Dashboard](Dashboard.png)
